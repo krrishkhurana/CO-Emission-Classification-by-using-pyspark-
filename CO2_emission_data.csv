@@ -1,0 +1,26 @@
+vehicle_type,fuel_type,engine_size,co2_emission,region
+Sedan,Petrol,1.2,110,Asia
+SUV,Diesel,2.5,190,Europe
+Hatchback,Petrol,1.0,95,Asia
+Truck,Diesel,3.0,220,North America
+Sedan,Hybrid,1.8,105,Europe
+SUV,Petrol,2.0,160,Asia
+Hatchback,Electric,0.0,0,Europe
+Van,Diesel,2.2,180,North America
+Sedan,Petrol,1.6,130,Asia
+SUV,Hybrid,2.4,145,Europe
+Truck,Diesel,3.2,250,North America
+Van,Petrol,2.0,175,Asia
+Sedan,Electric,0.0,0,Europe
+Hatchback,Diesel,1.5,140,Asia
+SUV,Petrol,2.3,165,North America
+Truck,Hybrid,3.0,185,Europe
+Van,Diesel,2.5,200,Asia
+Sedan,Petrol,1.4,115,North America
+Hatchback,Petrol,1.3,125,Europe
+SUV,Diesel,2.7,210,Asia
+Truck,Petrol,3.5,230,North America
+Van,Hybrid,2.0,150,Europe
+Sedan,Diesel,1.8,160,Asia
+Hatchback,Electric,0.0,0,Europe
+SUV,Hybrid,2.2,155,Asia
